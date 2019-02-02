@@ -22,4 +22,4 @@ Also included are convenience functions
 This development version can be installed with 
 
 	install.packages("devtools")
-	devtools::install_github("gandersen/retrosheet")
+	devtools::install_github("gandersen101/retrosheet")
